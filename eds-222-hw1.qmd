@@ -1,8 +1,7 @@
 ---
-title: EDS 222 Homework 1
-format: 
-  html:
-    embed-resources: true
+title: "EDS 222: Homework 1"
+date: "Assigned ???, due ???"
+author: "Your Name Here"
 ---
 
 ## Background
@@ -21,7 +20,7 @@ In this exercise, you are given two datasets from Lahore, Pakistan and are asked
 All data for EDS 222 will be stored on the Taylor server, in the shared `/courses/eds-222/data/` directory. Please see material from EDS 214 on how to access and retrieve data from Taylor. These data are small; all compute can be handled locally. Thanks to Bren PhD student Fatiq Nadeem for assembling these data!
 :::
 
-In answering the following questions, please consider the lecture content from class on sampling strategies, as well as the material in Chapter 2 of [*Introduction to Modern Statistics*](https://openintro-ims.netlify.app/data-design). Include in your submission a file called `eds-222-hw1.qmd` and the rendered HTML output, each containing complete answers to all questions *as well as the associated code*. Questions with answers unsupported by the code will be marked incomplete. Showing your work this way will help you develop the habit of creating reproducible code.
+In answering the following questions, please consider the lecture content from class on sampling strategies, as well as the material in Chapter 2 of [*Introduction to Modern Statistics*](https://openintro-ims.netlify.app/data-design). Include in your submission your version of this file "`eds-222-hw1.qmd`" and the rendered HTML output, each containing complete answers to all questions *as well as the associated code*. Questions with answers unsupported by the code will be marked incomplete. Showing your work this way will help you develop the habit of creating reproducible code.
 
 ## Assessment
 
@@ -92,4 +91,3 @@ Second, create a *stratified random sample*. Do so by (i) stratifying your poole
 #### Question 6.2
 
 Compare estimated means of PM 2.5 for each sampling strategy to the NASA estimate of 89.2 $\mu g/m^3$. Which sample seems to match the satellite data best? What would you recommend the Prime Minister do? Does your proposed sampling strategy rely more on government or on crowd-sourced data? Why might that be the case?
-
